@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="autopath",
+    name="addpath",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[],
@@ -12,7 +12,7 @@ setup(
     description="Automatically add parent directories to sys.path in Python",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/noggong/autopath",  # GitHub URL
+    url="https://github.com/noggong/addpath",  # GitHub URL
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

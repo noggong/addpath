@@ -1,4 +1,4 @@
-# autopath/autopath.py
+# addpath/addpath.py
 
 import sys
 import os
